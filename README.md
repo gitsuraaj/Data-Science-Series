@@ -37,11 +37,11 @@ Note: You can refer to Columns description file to learn about the columns avail
 
 3.    Data Quality Check and Missing values 
 
-● Find the percentage of missing values for all the columns. 
+a. Find the percentage of missing values for all the columns. 
 
-● Remove columns with high missing percentage. 
+b. Remove columns with high missing percentage. 
 
-● For columns which has less percentage (around 13% or so), you need to check what will be the best metric to impute the missing values? Like if the column you are checking is a categorica column check, which category you can use to fill the nulls. For others check does mean or median can be imputed or not. Other cases may be imputing with 0. You need to do this task for some variables and not for all, say 5.
+c. For columns which has less percentage (around 13% or so), you need to check what will be the best metric to impute the missing values? Like if the column you are    checking is a categorica column check, which category you can use to fill the nulls. For others check does mean or median can be imputed or not. Other cases may    be imputing with 0. You need to do this task for some variables and not for all, say 5.
 
 4.	Check the datatypes of all the columns and change the datatype if required. 
 
