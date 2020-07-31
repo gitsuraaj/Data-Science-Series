@@ -1,6 +1,9 @@
 # Data-Science-Series
 For all those who're struggling to find a good hands-on resource (with case studies) to master their Data Science skills, Here's all what you need!
 
+
+## CONCEPT 1: Exploratory Data Analysis
+
 Credit Risk Modeling Case Study
 
 Problem Statement:
