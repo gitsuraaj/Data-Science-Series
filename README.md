@@ -20,16 +20,24 @@ Datasets:
 
 1. 'application_data.csv' contains all the information of the client at the time of application. The data is about whether a client has payment difficulties.
 2. 'previous_application.csv' contains information about the client’s previous loan data. It contains the data whether the previous application had been Approved, Cancelled, Refused or Unused offer.
+
 Datasets uploaded here: https://drive.google.com/drive/folders/1IWQBgaO8e_VDi6GBnluLJTlOQFSTPtcL?usp=sharing
+
 Note: You can refer to Columns description file to learn about the columns available in the datasets.
-How to begin?
+
+
+*How to begin?* 
+
 1.	Start by importing the 'application_train.csv'. 
 
 2.	Check the structure of the data (shape, info, describe). 
 
 3.    Data Quality Check and Missing values 
+
 ● Find the percentage of missing values for all the columns. 
+
 ● Remove columns with high missing percentage. 
+
 ● For columns which has less percentage (around 13% or so), you need to check what will be the best metric to impute the missing values? Like if the column you are checking is a categorica column check, which category you can use to fill the nulls. For others check does mean or median can be imputed or not. Other cases may be imputing with 0. You need to do this task for some variables and not for all, say 5.
 
 4.	Check the datatypes of all the columns and change the datatype if required. 
