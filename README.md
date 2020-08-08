@@ -76,6 +76,8 @@ categories. Do this for one or two columns.
 
 ## CONCEPT 2: Multiple Regression
 
+![linearRegression](https://ibb.co/618W01Y/)
+
 ### YuluDulu Bicycle Subscription Case Study
  
 #### Problem Statement
