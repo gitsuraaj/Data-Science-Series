@@ -76,7 +76,7 @@ categories. Do this for one or two columns.
 
 ## CONCEPT 2: Multiple Regression
 
-### YuluDulu Bicycle SubscriptionCase Study
+### YuluDulu Bicycle Subscription Case Study
  
 #### Problem Statement
 A bike-sharing provider YuluDulu has recently suffered considerable dips in their revenues. They have contracted a consulting company to understand the factors on which the demand for these shared bikes depends. Specifically, they want to understand the factors affecting the demand for these shared bikes in the American market. The company wants to know: 
@@ -115,4 +115,5 @@ A bike-sharing provider YuluDulu has recently suffered considerable dips in thei
 12.	Check the Adjusted R-Square for both test and train data. 
 13.	Report the final model. 
 
+Data set “YuluDulu Dataset.csv” and its description “YuluDulu Columns Description” is uploaded in the same folder.
 
