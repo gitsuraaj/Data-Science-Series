@@ -73,3 +73,46 @@ categories. Do this for one or two columns.
 
 10.	Perform univariate and bivariate analysis to find some pattern. 
 
+
+## CONCEPT 2: Multiple Regression
+
+### YuluDulu Bicycle SubscriptionCase Study
+ 
+#### Problem Statement
+A bike-sharing provider YuluDulu has recently suffered considerable dips in their revenues. They have contracted a consulting company to understand the factors on which the demand for these shared bikes depends. Specifically, they want to understand the factors affecting the demand for these shared bikes in the American market. The company wants to know: 
+•	Which variables are significant in predicting the demand for shared bikes?
+•	How well those variables describe the bike demands 
+
+#### What you need to do? 
+•	Create a linear model that describe the effect of various features on price. 
+•	The model should be interpretable so that the management can understand it. 
+  
+
+#### Case Study Steps to be performed
+
+#### *Data Preparation*
+
+1.	Identify the categorical and continuous features. 
+2.	Drop the unnecessary variables: ‘instant’, ‘dteday’, ‘casual’ and ‘registered’. 
+3.	Check the data-type of all the columns and make necessary changes if required. 
+
+#### *Data Visualization*
+
+4.	Perform EDA to understand various variables. 
+5.	Check the correlation between the variables. 
+
+#### *Data Preparation*
+
+6.	Create dummy variables for all the categorical features. 
+7.	Divide the data to train and test. 
+8.	Perform scaling. 
+9.	Divide the data into X and y. 
+
+#### *Data Modelling and Evaluation* 
+
+10.	Create Linear Regression model using mixed approach. 
+11.	Check the various assumptions. 
+12.	Check the Adjusted R-Square for both test and train data. 
+13.	Report the final model. 
+
+
