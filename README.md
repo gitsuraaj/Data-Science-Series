@@ -76,7 +76,7 @@ categories. Do this for one or two columns.
 
 ## CONCEPT 2: Multiple Regression
 
-![linearRegression](https://ibb.co/618W01Y/)
+![Regression](/Users/suraajhasija/Desktop/5-Step-Workflow-for-Multiple-Linear-Regression.png)
 
 ### YuluDulu Bicycle Subscription Case Study
  
