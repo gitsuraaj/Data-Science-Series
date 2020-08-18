@@ -119,3 +119,7 @@ A bike-sharing provider YuluDulu has recently suffered considerable dips in thei
 
 #### Data set “YuluDulu Dataset.csv” and its description “YuluDulu Columns Description” is uploaded in the same folder.
 
+
+CONCEPT 3: Supervised Learning through Classification
+
+#### Refer to the document in the Project folder
