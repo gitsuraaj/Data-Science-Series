@@ -3,6 +3,7 @@ For all those who're struggling to find a good hands-on resource (with case stud
 
 
 ## CONCEPT 1: Exploratory Data Analysis
+![EDA](https://github.com/gitsuraaj/Data-Science-Series/blob/master/Pictures/Exploratory-Data-Analysis.png)
 
 ### Credit Risk Modeling Case Study
 
