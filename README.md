@@ -122,4 +122,4 @@ A bike-sharing provider YuluDulu has recently suffered considerable dips in thei
 
 ## CONCEPT 3: Supervised Learning through Classification
 
-#### Refer to the document in the Project folder
+#### Refer to the document 'Steps and Problem Statement' in the Project folder
