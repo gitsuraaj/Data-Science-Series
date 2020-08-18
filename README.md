@@ -130,27 +130,39 @@ An education company named X Education sells online courses to industry professi
 
 #### What you need to do? 
 •	X Education has appointed you to help them select the most promising leads, i.e. the leads that are most likely to convert into paying customers.
+
 •	The company requires you to build a model wherein you need to assign a lead score to each of the leads such that the customers with higher lead score have a higher conversion chance and the customers with lower lead score have a lower conversion chance. 
 Steps to follow:
 
 #### Data Cleaning 
 •	Handle the “Select” level that is present in many of the categorical variables. 
+
 •	Drop columns that are having high percentage of missing values. Check all the columns before dropping them. 
+
 •	Check the number of unique categories in each categorical column. Here you may need to do something. 
+
 •	For the columns with less percentage of missing, use some imputation technique. 
+
 •	Finally check the percentage of rows retained in data cleaning process. 
 
 #### Data Preparation 
 •	Create dummies for all categorical columns. 
+
 •	Perform train-test split. 
+
 •	Perform scaling. 
 
 #### Modelling
 •	Use techniques like RFE to perform variable selection. 
+
 •	Build a Logistic Regression model with good sensitivity. 
+
 •	Check p-value and VIF. 
+
 •	Find the optimal probability cutoff. 
+
 •	Check the model performance over the test data. 
+
 •	Generate the score variable. 
 
 
