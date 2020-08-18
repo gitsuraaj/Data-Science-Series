@@ -29,7 +29,7 @@ Datasets uploaded here: https://drive.google.com/drive/folders/1IWQBgaO8e_VDi6GB
 Note: You can refer to Columns description file to learn about the columns available in the datasets.
 
 
-#### *How to begin?* 
+#### How to begin?
 
 1.	Start by importing the 'application_train.csv'. 
 
@@ -51,7 +51,7 @@ c. For columns which has less percentage (around 13% or so), you need to check w
 categories. Do this for one or two columns. 
 
 
-#### *Analysis Steps*
+#### Analysis Steps
 
 1.	Check the Imbalance percentage. No balancing technique required. 
 
@@ -92,18 +92,18 @@ A bike-sharing provider YuluDulu has recently suffered considerable dips in thei
 
 #### Case Study Steps to be performed
 
-#### *Data Preparation*
+#### Data Preparation
 
 1.	Identify the categorical and continuous features. 
 2.	Drop the unnecessary variables: ‘instant’, ‘dteday’, ‘casual’ and ‘registered’. 
 3.	Check the data-type of all the columns and make necessary changes if required. 
 
-#### *Data Visualization*
+#### Data Visualization
 
 4.	Perform EDA to understand various variables. 
 5.	Check the correlation between the variables. 
 
-#### *Data Preparation*
+#### Data Preparation
 
 6.	Create dummy variables for all the categorical features. 
 7.	Divide the data to train and test. 
