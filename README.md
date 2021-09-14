@@ -25,7 +25,7 @@ To develop your understanding of the domain, you are advised to independently re
 1. 'application_data.csv' contains all the information of the client at the time of application. The data is about whether a client has payment difficulties.
 2. 'previous_application.csv' contains information about the client’s previous loan data. It contains the data whether the previous application had been Approved, Cancelled, Refused or Unused offer.
 
-Datasets uploaded here: https://drive.google.com/drive/folders/1IWQBgaO8e_VDi6GBnluLJTlOQFSTPtcL?usp=sharing
+Datasets uploaded here: https://drive.google.com/drive/folders/199BenSvrJUhf6N5iU7nSNewduW61AwYy
 
 Note: You can refer to Columns description file to learn about the columns available in the datasets.
 
